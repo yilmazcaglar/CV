@@ -8,7 +8,8 @@
 **E-Posta:**  yilmaz.tr@yandex.com ,massivestroke00@gmail.com  
 # EĞİTİM
 ***
-> 2014 yılında Kılıçaslan Ortaokulundan mezun oldum ve Handan Hayrettin Yelkikanat Mesleki ve Tekniki Lisesi'ne başladım .2015 yılında okulun Bilişim bölümüne geçtim .2016 yılında ise Web Tasarım ve Programlama dalına geçtim.  
+* 2014 - 2017 Handan Hayrettin Yelkikanat Mesleki ve Tekniki Lisesi (Web Tasarım ve Programlama)
+* 2006 - 2014 Kılıçaslan İlköğretim Okulu
 # BİLİNEN PROGRAMLAMA DİLLERİ
 ***
 * C#
